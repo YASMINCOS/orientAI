@@ -1,0 +1,91 @@
+NORMAS E DIRETRIZES DO TCU PARA CONTROLE PÚBLICO
+Fonte: Tribunal de Contas da União — apoioauditoria.tcu.gov.br
+
+=== CATEGORIAS DE IRREGULARIDADES ===
+
+IRREGULARIDADE ADMINISTRATIVA
+Configura irregularidade administrativa: desvio de recursos públicos para fins particulares,
+nepotismo (contratação de familiares sem processo seletivo), licitação direcionada para
+beneficiar empresa específica, superfaturamento de contratos públicos, pagamento por
+serviços não prestados, fraude em concurso público, uso indevido de bem público,
+dispensa irregular de licitação.
+
+GRAVIDADE ALTA: envolve risco à vida humana, desvio superior a R$10.000, crime continuado,
+participação de agente público em esquema de corrupção.
+
+GRAVIDADE MÉDIA: impacta serviço público essencial, prejuízo entre R$1.000 e R$10.000,
+irregularidade isolada sem evidência de continuidade.
+
+GRAVIDADE BAIXA: não causa dano financeiro direto, afeta qualidade do serviço,
+irregularidade formal ou procedimental.
+
+=== ÓRGÃOS RESPONSÁVEIS NO DISTRITO FEDERAL ===
+
+SAÚDE PÚBLICA
+- SES-DF (Secretaria de Estado de Saúde do Distrito Federal): responsável pela política de saúde
+- IGES-DF (Instituto de Gestão Estratégica de Saúde): gerencia UPAs, Hospital de Base, HRSM
+- Problemas: falta de medicamentos, mau atendimento, superlotação, equipamentos quebrados
+- Denúncia: Ouvidoria SES-DF | 0800 644 7488
+
+EDUCAÇÃO
+- SEEDF (Secretaria de Estado de Educação do DF): escolas públicas, professores, merenda
+- Problemas: falta de professor, escola em obras sem previsão, merenda inadequada
+- Denúncia: Ouvidoria SEEDF
+
+INFRAESTRUTURA E OBRAS
+- NOVACAP: obras e urbanização no DF
+- SEMOB: transporte público, BRT, metrô
+- DER-DF: rodovias distritais
+- Problemas: buraco em via, obras abandonadas, sinalização faltando
+- Denúncia: 156 (Central de Atendimento do GDF)
+
+ÁGUA E SANEAMENTO
+- CAESB: fornecimento de água e coleta de esgoto no DF
+- Problemas: falta de água, vazamento em via pública, esgoto a céu aberto
+- Denúncia: 115 (Central CAESB) ou Ouvidoria CAESB
+
+LIMPEZA URBANA
+- SLU (Serviço de Limpeza Urbana): coleta de lixo, varrição
+- Problemas: lixo acumulado, coleta irregular, descarte irregular
+- Denúncia: 156 ou aplicativo DF na Palma da Mão
+
+=== PROCESSO DE REGISTRO DE DENÚNCIA ===
+
+Conforme Lei nº 13.460/2017 (Código de Defesa do Usuário de Serviços Públicos):
+1. O cidadão tem direito de registrar denúncia e receber retorno em até 30 dias
+2. Dados do denunciante são protegidos pela LGPD (Lei nº 13.709/2018)
+3. Denúncias podem ser encaminhadas ao TCU via portal: denuncie.tcu.gov.br
+4. O Fala.BR (falabr.cgu.gov.br) é o canal federal de ouvidoria
+
+=== PROTOCOLOS DE TRIAGEM DE URGÊNCIA EM SAÚDE ===
+
+PROTOCOLO DE MANCHESTER — DISCRIMINADORES GERAIS (adaptado para orientação):
+
+VERMELHO (Emergência — atendimento imediato):
+- Dificuldade respiratória grave ou falta de ar intensa
+- Dor no peito irradiando para braço esquerdo, mandíbula ou costas
+- Nível de consciência alterado, desmaio ou convulsão
+- Sangramento intenso sem controle
+- Febre acima de 39°C em recém-nascido (até 3 meses)
+- Sinais de AVC: boca torta, braço caindo, fala arrastada
+
+LARANJA (Muito urgente — atendimento em até 10 min):
+- Dor intensa (nota 8-10 em 10)
+- Febre alta com calafrios em adulto
+- Vômitos repetidos sem conseguir beber líquido
+- Trauma moderado
+
+AMARELO (Urgente — atendimento em até 60 min):
+- Dor moderada (nota 4-7)
+- Febre sem outros sintomas graves
+- Vômito ou diarreia sem sinais de desidratação grave
+
+VERDE (Pouco urgente — UBS ou agendamento):
+- Sintomas leves com mais de 3 dias
+- Dor leve controlada
+- Consulta de rotina ou acompanhamento
+
+AZUL (Não urgente — agendamento programado):
+- Atestado, renovação de receita
+- Resultado de exame
+- Dúvidas gerais de saúde
