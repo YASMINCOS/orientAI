@@ -1,2 +1,8 @@
 .env
 .env.save
+.env.example.save
+venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.idea/
